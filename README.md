@@ -1,4 +1,4 @@
-# salesforce_analytics_demo
+# salesforce_analytics_demo - Selenium Python tests
 
 A tiny demo of using Selenium with Python to automate the basic test for SalesForce Analytics (Einstein Analytics). The tests include: login, navigate to the demo dashboard using selenium clicks; and then after launching the dashboard, checks if the deisred dashboard items have been loaded.
 
